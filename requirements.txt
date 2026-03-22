@@ -1,0 +1,6 @@
+discord.py
+flask
+motor
+python-dotenv
+aiohttp
+uvicorn
